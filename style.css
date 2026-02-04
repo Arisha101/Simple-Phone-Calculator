@@ -1,0 +1,23 @@
+.root {
+    -fx-background-color: #1e1e1e;
+}
+
+.display {
+    -fx-font-size: 22px;
+    -fx-background-color: #000000;
+    -fx-text-fill: white;
+    -fx-padding: 10;
+}
+
+.btn {
+    -fx-font-size: 16px;
+    -fx-background-color: #2d2d2d;
+    -fx-text-fill: white;
+    -fx-background-radius: 10;
+}
+
+.op-btn {
+    -fx-background-color: #ff9500;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
